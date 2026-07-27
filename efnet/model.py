@@ -4,7 +4,7 @@ efnet/model.py
 EFNet — Edge Face Network
 Full architecture: CNN Stem → EFNet-S × 3 → EFNet-G × 2 → Embed Head
 
-Author: (your name)
+Author: Rudransh Joshi
 """
 
 import math
