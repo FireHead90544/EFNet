@@ -1,9 +1,11 @@
 # EFNet — Edge Face Network
 
+<img width="1749" height="899" alt="image" src="https://github.com/user-attachments/assets/1828eda1-7993-4f4d-8b92-0b10b8ab55ad" />
+
 > **Hybrid CNN-ViT for few-shot open-set face recognition at the edge.**  
 > Research (Major) project by Rudransh Joshi, AI/ML (B.Tech Final Year).
 
-📄 **[Major Project Report](#)** &nbsp;|&nbsp; 🎞️ **[Major Project Presentation](https://docs.google.com/presentation/d/1iwzYWetpud-QW1lAPmZPgiPh7HCi9gOvf7ZtyYcUqBQ/view)**
+**[Major Project Report](https://docs.google.com/document/d/1y330CJxYNG1GjHt90r1L_UwXiIZuqTGid1yqdP0Erh0/view)** &nbsp;|&nbsp; **[Major Project Presentation](https://docs.google.com/presentation/d/1iwzYWetpud-QW1lAPmZPgiPh7HCi9gOvf7ZtyYcUqBQ/view)**
 
 ---
 
